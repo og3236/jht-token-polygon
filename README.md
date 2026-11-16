@@ -6,7 +6,7 @@ Token oficial **JHT (Jaguar Onça Juara Ouro Floresta Verde)** do ecossistema **
 - **Nome:** Jaguar Onça Juara Ouro Floresta Verde
 - **Símbolo:** JHT
 - **Rede:** Polygon Mainnet (Chain ID: `137` / `0x89`)
-- **Contrato Oficial:** `0x6e9c1564844d6b1a78724a63b3a12a854faf293f`
+- **Contrato Oficial:** 0xe28019f765c4ba1a1eaf2ccc7f5dcb2b17d22543
 - **Decimais:** `18`
-- **Explorador PolygonScan:** https://polygonscan.com/token/0x6e9c1564844d6b1a78724a63b3a12a854faf293f
+- **Explorador PolygonScan:** https://polygonscan.com/token/0xe28019f765c4ba1a1eaf2ccc7f5dcb2b17d22543
 - **Portal e Conversor Web3 (Harpija Pay):** https://og3236.github.io
